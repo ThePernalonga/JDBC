@@ -1,0 +1,16 @@
+building, course_id, room_number, sec_id, semester, time_slot_id, year
+Painter, BIO-101, 514, 1, Summer, B, 2017
+Painter, BIO-301, 514, 1, Summer, A, 2018
+Packard, CS-101, 101, 1, Fall, H, 2017
+Packard, CS-101, 101, 1, Spring, F, 2018
+Taylor, CS-190, 3128, 1, Spring, E, 2017
+Taylor, CS-190, 3128, 2, Spring, A, 2017
+Watson, CS-315, 120, 1, Spring, D, 2018
+Watson, CS-319, 100, 1, Spring, B, 2018
+Taylor, CS-319, 3128, 2, Spring, C, 2018
+Taylor, CS-347, 3128, 1, Fall, A, 2017
+Taylor, EE-181, 3128, 1, Spring, C, 2017
+Packard, FIN-201, 101, 1, Spring, B, 2018
+Painter, HIS-351, 514, 1, Spring, C, 2018
+Packard, MU-199, 101, 1, Spring, D, 2018
+Watson, PHY-101, 100, 1, Fall, A, 2017

@@ -1,0 +1,14 @@
+dept_name, ID, name, salary
+Comp. Sci., 10101, Srinivasan, 71500.00
+Biology, 10211, Smith, 66000.00
+Finance, 12121, Wu, 90000.00
+Music, 15151, Mozart, 40000.00
+Physics, 22222, Einstein, 95000.00
+History, 32343, El Said, 60000.00
+Physics, 33456, Gold, 87000.00
+Comp. Sci., 45565, Katz, 82500.00
+History, 58583, Califieri, 62000.00
+Finance, 76543, Singh, 80000.00
+Biology, 76766, Crick, 72000.00
+Comp. Sci., 83821, Brandt, 101200.00
+Elec. Eng., 98345, Kim, 80000.00

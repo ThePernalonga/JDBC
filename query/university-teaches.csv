@@ -1,0 +1,16 @@
+course_id, ID, sec_id, semester, year
+BIO-101, 76766, 1, Summer, 2017
+BIO-301, 76766, 1, Summer, 2018
+CS-101, 10101, 1, Fall, 2017
+CS-101, 45565, 1, Spring, 2018
+CS-190, 83821, 1, Spring, 2017
+CS-190, 83821, 2, Spring, 2017
+CS-315, 10101, 1, Spring, 2018
+CS-319, 45565, 1, Spring, 2018
+CS-319, 83821, 2, Spring, 2018
+CS-347, 10101, 1, Fall, 2017
+EE-181, 98345, 1, Spring, 2017
+FIN-201, 12121, 1, Spring, 2018
+HIS-351, 32343, 1, Spring, 2018
+MU-199, 15151, 1, Spring, 2018
+PHY-101, 22222, 1, Fall, 2017

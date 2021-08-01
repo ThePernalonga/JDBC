@@ -1,0 +1,14 @@
+dept_name, ID, name, salary, tot_cred
+Comp. Sci., 00128, Zhang, 10000, 102
+Comp. Sci., 12345, Shankar, , 32
+History, 19991, Brandt, , 80
+Finance, 23121, Chavez, 10000, 110
+Physics, 44553, Peltier, , 56
+Physics, 45678, Levy, , 46
+Comp. Sci., 54321, Williams, , 54
+Music, 55739, Sanchez, , 38
+Physics, 70557, Snow, , 0
+Comp. Sci., 76543, Brown, , 58
+Elec. Eng., 76653, Aoi, , 60
+Elec. Eng., 98765, Bourikas, , 98
+Biology, 98988, Tanaka, 10000, 120
